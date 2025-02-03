@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hi there 👋 </h2>
-
 My name is Natalie Boston! I am an undergraduate Computing Science student at the University of Alberta.
 
 <h2> 👩‍💻 I have recently taken:</h2>
