@@ -25,6 +25,8 @@ My name is Natalie Boston! I am an undergraduate Computing Science student at th
 
 - CMPUT 267: **Machine Learning**
 
+- CMPUT 331: **Computational Cryptography**
+
 <h2> 📧 How to reach me:</h2>
 
 <a href="mailto:boston1@ualberta.ca">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  <a href="https://www.linkedin.com/in/natalie-boston-92a6b3345/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
